@@ -1,0 +1,35 @@
+.button {
+	background-color: coral;
+	height: 40px;
+	padding: 0 10px;
+	border-radius: 5px;
+	width: 100%;
+	font-size: 16px;
+	color: #444;
+	font-weight: bold;
+	cursor: pointer;
+	border: none;
+	transition: all 0.5s ease;
+}
+
+.button:hover {
+	background-color: #444;
+	color: coral;
+}
+
+.edit-task-details-button .button{
+	background-color: #444;
+	border: none;
+	font-size: 24px;
+	color: coral;
+	margin: 0 5px;
+}
+
+.edit-task-details-button .button svg{
+	transition: all 0.5s ease;
+}
+
+.edit-task-details-button .button svg:hover {
+	filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
+	cursor: pointer;
+}
