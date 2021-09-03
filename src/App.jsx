@@ -80,7 +80,7 @@ const [tasks, setTasks] = useState(JSON.parse(window.localStorage.getItem("tasks
 						</>
 					)}
 				/>
-				<Route path="/:id" exact component={TaskDetails} />
+				<Route path="/:id" component={TaskDetails} />
 			</div>
 		</Router>
 	);
