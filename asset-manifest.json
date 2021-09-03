@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github-pages-todo/static/css/main.c45c13b9.chunk.css",
+    "main.js": "/github-pages-todo/static/js/main.7261567d.chunk.js",
+    "main.js.map": "/github-pages-todo/static/js/main.7261567d.chunk.js.map",
+    "runtime-main.js": "/github-pages-todo/static/js/runtime-main.501db3e2.js",
+    "runtime-main.js.map": "/github-pages-todo/static/js/runtime-main.501db3e2.js.map",
+    "static/js/2.c7f4e0e3.chunk.js": "/github-pages-todo/static/js/2.c7f4e0e3.chunk.js",
+    "static/js/2.c7f4e0e3.chunk.js.map": "/github-pages-todo/static/js/2.c7f4e0e3.chunk.js.map",
+    "index.html": "/github-pages-todo/index.html",
+    "static/css/main.c45c13b9.chunk.css.map": "/github-pages-todo/static/css/main.c45c13b9.chunk.css.map",
+    "static/js/2.c7f4e0e3.chunk.js.LICENSE.txt": "/github-pages-todo/static/js/2.c7f4e0e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.501db3e2.js",
+    "static/js/2.c7f4e0e3.chunk.js",
+    "static/css/main.c45c13b9.chunk.css",
+    "static/js/main.7261567d.chunk.js"
+  ]
+}
